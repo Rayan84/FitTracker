@@ -1,0 +1,253 @@
+[2025-06-07 08:33:17] [Success] Monitor stopped
+[2025-06-07 08:33:20] [Info] Attempting to use saved Expo port: 8082
+[2025-06-07 08:33:20] [Info] Using saved Expo port: 8082 (already free)
+[2025-06-07 08:33:20] [Success] === FITTRACKER MONITOR STARTED ===
+[2025-06-07 08:33:20] [Info] Project: C:\Users\LENOVO\Desktop\ios\FitTracker
+[2025-06-07 08:33:20] [Info] Expo Port: 8082
+[2025-06-07 08:33:20] [Info] Starting Expo development server...
+[2025-06-07 08:33:27] [Info] Using network IP: 172.30.32.1
+[2025-06-07 08:33:27] [Warning] Aggressively clearing port 8082 before startup...
+[2025-06-07 08:33:27] [Warning] Aggressively cleaning up port 8082...
+[2025-06-07 08:33:27] [Warning] Killing ALL Node.js processes...
+[2025-06-07 08:33:31] [Success] Port 8082 successfully freed
+[2025-06-07 08:33:31] [Info] Running: npx expo start --host lan --port 8082 --clear
+[2025-06-07 08:33:31] [Success] Expo will be accessible via LAN at: exp://172.30.32.1:8082
+[2025-06-07 08:33:31] [Success] QR code will be displayed in CMD window - keep it open!
+[2025-06-07 08:33:31] [Info] Make sure you have Expo Go app installed on your phone!
+[2025-06-07 08:33:31] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 08:33:31] [Success] Expo server started (PID: 12060)
+[2025-06-07 08:33:31] [Success] QR code should appear in the CMD window for scanning with Expo Go!
+[2025-06-07 08:33:31] [Warning] IMPORTANT: Use Expo Go app to scan QR, not your camera app!
+[2025-06-07 08:33:31] [Warning] If you don't have Expo Go: Download it from App Store/Google Play
+[2025-06-07 08:33:39] [Info] === MONITORING CYCLE #1 ===
+[2025-06-07 08:33:39] [Info] Expo process is new (age: 8.1s), giving it time to start...
+[2025-06-07 08:33:39] [Info] Expo log file size: 122 bytes, checked 1 recent lines
+[2025-06-07 08:33:42] [Info] Status: Uptime=00:00:22 | Fixes=0 | Restarts=1
+[2025-06-07 08:33:52] [Info] === MONITORING CYCLE #2 ===
+[2025-06-07 08:33:52] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:33:52] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:33:54] [Info] Status: Uptime=00:00:34 | Fixes=0 | Restarts=1
+[2025-06-07 08:34:04] [Info] === MONITORING CYCLE #3 ===
+[2025-06-07 08:34:04] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:34:04] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:34:06] [Info] Status: Uptime=00:00:46 | Fixes=0 | Restarts=1
+[2025-06-07 08:34:16] [Info] === MONITORING CYCLE #4 ===
+[2025-06-07 08:34:16] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:34:16] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:34:19] [Info] Status: Uptime=00:00:59 | Fixes=0 | Restarts=1
+[2025-06-07 08:34:29] [Info] === MONITORING CYCLE #5 ===
+[2025-06-07 08:34:34] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:34:35] [Info] Expo log file size: 1094 bytes, checked 9 recent lines
+[2025-06-07 08:34:51] [Info] Status: Uptime=00:01:31 | Fixes=0 | Restarts=1
+[2025-06-07 08:35:01] [Info] === MONITORING CYCLE #6 ===
+[2025-06-07 08:35:02] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:35:02] [Info] Expo log file size: 4310 bytes, checked 21 recent lines
+[2025-06-07 08:35:08] [Info] Status: Uptime=00:01:48 | Fixes=0 | Restarts=1
+[2025-06-07 08:35:18] [Info] === MONITORING CYCLE #7 ===
+[2025-06-07 08:35:18] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:35:19] [Info] Expo log file size: 38234 bytes, checked 38 recent lines
+[2025-06-07 08:35:21] [Info] Status: Uptime=00:02:01 | Fixes=0 | Restarts=1
+[2025-06-07 08:35:31] [Info] === MONITORING CYCLE #8 ===
+[2025-06-07 08:35:31] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:35:31] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:35:35] [Info] Status: Uptime=00:02:15 | Fixes=0 | Restarts=1
+[2025-06-07 08:35:45] [Info] === MONITORING CYCLE #9 ===
+[2025-06-07 08:35:45] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:35:45] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:35:48] [Info] Status: Uptime=00:02:28 | Fixes=0 | Restarts=1
+[2025-06-07 08:35:58] [Info] === MONITORING CYCLE #10 ===
+[2025-06-07 08:35:58] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:35:58] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:36:02] [Info] Status: Uptime=00:02:42 | Fixes=0 | Restarts=1
+[2025-06-07 08:36:12] [Info] === MONITORING CYCLE #11 ===
+[2025-06-07 08:36:12] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:36:12] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:36:15] [Info] Status: Uptime=00:02:55 | Fixes=0 | Restarts=1
+[2025-06-07 08:36:25] [Info] === MONITORING CYCLE #12 ===
+[2025-06-07 08:36:25] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:36:25] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:36:28] [Info] Status: Uptime=00:03:08 | Fixes=0 | Restarts=1
+[2025-06-07 08:36:38] [Info] === MONITORING CYCLE #13 ===
+[2025-06-07 08:36:39] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:36:39] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:36:44] [Info] Status: Uptime=00:03:24 | Fixes=0 | Restarts=1
+[2025-06-07 08:36:54] [Info] === MONITORING CYCLE #14 ===
+[2025-06-07 08:36:54] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:36:54] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:36:58] [Info] Status: Uptime=00:03:38 | Fixes=0 | Restarts=1
+[2025-06-07 08:37:08] [Info] === MONITORING CYCLE #15 ===
+[2025-06-07 08:37:08] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:37:08] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:37:12] [Info] Status: Uptime=00:03:52 | Fixes=0 | Restarts=1
+[2025-06-07 08:37:22] [Info] === MONITORING CYCLE #16 ===
+[2025-06-07 08:37:22] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:37:22] [Info] Expo log file size: 38714 bytes, checked 41 recent lines
+[2025-06-07 08:37:26] [Info] Status: Uptime=00:04:06 | Fixes=0 | Restarts=1
+[2025-06-07 08:37:36] [Info] === MONITORING CYCLE #17 ===
+[2025-06-07 08:37:38] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:37:38] [Info] Expo log file size: 196182 bytes, checked 100 recent lines
+[2025-06-07 08:37:43] [Info] Status: Uptime=00:04:23 | Fixes=0 | Restarts=1
+[2025-06-07 08:37:53] [Info] === MONITORING CYCLE #18 ===
+[2025-06-07 08:37:54] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:37:54] [Info] Expo log file size: 306146 bytes, checked 100 recent lines
+[2025-06-07 08:38:00] [Info] Status: Uptime=00:04:40 | Fixes=0 | Restarts=1
+[2025-06-07 08:38:10] [Info] === MONITORING CYCLE #19 ===
+[2025-06-07 08:38:11] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:38:11] [Info] Expo log file size: 496992 bytes, checked 100 recent lines
+[2025-06-07 08:38:16] [Info] Status: Uptime=00:04:56 | Fixes=0 | Restarts=1
+[2025-06-07 08:38:26] [Info] === MONITORING CYCLE #20 ===
+[2025-06-07 08:38:27] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:38:28] [Info] Expo log file size: 815220 bytes, checked 101 recent lines
+[2025-06-07 08:38:34] [Info] Status: Uptime=00:05:14 | Fixes=0 | Restarts=1
+[2025-06-07 08:38:44] [Info] === MONITORING CYCLE #21 ===
+[2025-06-07 08:38:44] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:38:45] [Info] Expo log file size: 961266 bytes, checked 104 recent lines
+[2025-06-07 08:38:51] [Info] Status: Uptime=00:05:31 | Fixes=0 | Restarts=1
+[2025-06-07 08:39:01] [Info] === MONITORING CYCLE #22 ===
+[2025-06-07 08:39:01] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:39:01] [Info] Expo log file size: 1024072 bytes, checked 100 recent lines
+[2025-06-07 08:39:06] [Info] Status: Uptime=00:05:46 | Fixes=0 | Restarts=1
+[2025-06-07 08:39:16] [Info] === MONITORING CYCLE #23 ===
+[2025-06-07 08:39:16] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:39:16] [Info] Expo log file size: 1080476 bytes, checked 100 recent lines
+[2025-06-07 08:39:20] [Info] Status: Uptime=00:06:00 | Fixes=0 | Restarts=1
+[2025-06-07 08:39:30] [Info] === MONITORING CYCLE #24 ===
+[2025-06-07 08:39:30] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:39:30] [Info] Expo log file size: 1151924 bytes, checked 100 recent lines
+[2025-06-07 08:39:36] [Info] Status: Uptime=00:06:16 | Fixes=0 | Restarts=1
+[2025-06-07 08:39:46] [Info] === MONITORING CYCLE #25 ===
+[2025-06-07 08:39:46] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:39:46] [Info] Expo log file size: 1207700 bytes, checked 100 recent lines
+[2025-06-07 08:39:48] [Info] Status: Uptime=00:06:28 | Fixes=0 | Restarts=1
+[2025-06-07 08:39:58] [Info] === MONITORING CYCLE #26 ===
+[2025-06-07 08:39:59] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:39:59] [Info] Expo log file size: 1251390 bytes, checked 100 recent lines
+[2025-06-07 08:40:02] [Info] Status: Uptime=00:06:42 | Fixes=0 | Restarts=1
+[2025-06-07 08:40:12] [Info] === MONITORING CYCLE #27 ===
+[2025-06-07 08:40:12] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:40:12] [Info] Expo log file size: 1299526 bytes, checked 100 recent lines
+[2025-06-07 08:40:16] [Info] Status: Uptime=00:06:56 | Fixes=0 | Restarts=1
+[2025-06-07 08:40:27] [Info] === MONITORING CYCLE #28 ===
+[2025-06-07 08:40:27] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:40:27] [Info] Expo log file size: 1352308 bytes, checked 100 recent lines
+[2025-06-07 08:40:30] [Info] Status: Uptime=00:07:10 | Fixes=0 | Restarts=1
+[2025-06-07 08:40:40] [Info] === MONITORING CYCLE #29 ===
+[2025-06-07 08:40:40] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:40:40] [Info] Expo log file size: 1399976 bytes, checked 100 recent lines
+[2025-06-07 08:40:46] [Info] Status: Uptime=00:07:26 | Fixes=0 | Restarts=1
+[2025-06-07 08:40:56] [Info] === MONITORING CYCLE #30 ===
+[2025-06-07 08:40:56] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:40:56] [Info] Expo log file size: 1455522 bytes, checked 100 recent lines
+[2025-06-07 08:41:00] [Info] Status: Uptime=00:07:40 | Fixes=0 | Restarts=1
+[2025-06-07 08:41:10] [Info] === MONITORING CYCLE #31 ===
+[2025-06-07 08:41:11] [Success] Expo server running normally (PID: 12060, port: 8082)
+[2025-06-07 08:41:11] [Info] Expo log file size: 1507812 bytes, checked 100 recent lines
+[2025-06-07 08:41:16] [Info] Attempting to use saved Expo port: 8082
+[2025-06-07 08:41:17] [Warning] Saved port 8082 is in use, aggressively cleaning it up...
+[2025-06-07 08:41:17] [Error] Detected NAVIGATION_ERROR error: navigation;"AppNavigator.jsA" N @LXêtyBN     [∑@I " 0I $ :"utils;"ErrorLogger.jsA" N ∞^tyBN      °@I " 0I $ "TextErrorFinder.jsA" N 0 _^tyBN      °@I " 0I $ :"services;"HealthKitService.jsA" N  ≤ÈëtyBN     ª@I " 0I $ "RealtimeErrorService.jsA" N ¿üêtyBN    Ä— @I " 0I $ :::4"clocks;: "plugins;"haste0:{
+[2025-06-07 08:41:17] [Warning] Attempting to fix NAVIGATION_ERROR error...
+[2025-06-07 08:41:17] [Warning] Navigation error detected - logging for developer attention
+[2025-06-07 08:41:17] [Error] DEVELOPER ACTION NEEDED: Check navigation-errors.log for details
+[2025-06-07 08:41:17] [Info] Status: Uptime=00:07:57 | Fixes=0 | Restarts=1
+[2025-06-07 08:41:20] [Warning] Could not free saved port 8082, finding new port...
+[2025-06-07 08:41:20] [Info] Looking for a free port starting from 8083...
+[2025-06-07 08:41:20] [Success] Found free port: 8083
+[2025-06-07 08:41:20] [Info] Using new free port: 8083
+[2025-06-07 08:41:20] [Success] === FITTRACKER MONITOR STARTED ===
+[2025-06-07 08:41:20] [Info] Project: C:\Users\LENOVO\Desktop\ios\FitTracker
+[2025-06-07 08:41:20] [Info] Expo Port: 8083
+[2025-06-07 08:41:20] [Info] Starting Expo development server...
+[2025-06-07 08:41:27] [Info] === MONITORING CYCLE #32 ===
+[2025-06-07 08:41:27] [Warning] No Expo process running
+[2025-06-07 08:41:27] [Warning] Expo server not responding, restarting...
+[2025-06-07 08:41:27] [Info] Starting Expo development server...
+[2025-06-07 08:41:30] [Info] Using network IP: 172.30.32.1
+[2025-06-07 08:41:30] [Warning] Aggressively clearing port 8082 before startup...
+[2025-06-07 08:41:30] [Warning] Aggressively cleaning up port 8082...
+[2025-06-07 08:41:30] [Warning] Killing ALL Node.js processes...
+[2025-06-07 08:41:33] [Info] Using network IP: 172.30.32.1
+[2025-06-07 08:41:33] [Warning] Aggressively clearing port 8083 before startup...
+[2025-06-07 08:41:34] [Warning] Aggressively cleaning up port 8083...
+[2025-06-07 08:41:34] [Warning] Killing ALL Node.js processes...
+[2025-06-07 08:41:35] [Success] Port 8082 successfully freed
+[2025-06-07 08:41:35] [Info] Running: npx expo start --host lan --port 8082 --clear
+[2025-06-07 08:41:35] [Success] Expo will be accessible via LAN at: exp://172.30.32.1:8082
+[2025-06-07 08:41:35] [Success] QR code will be displayed in CMD window - keep it open!
+[2025-06-07 08:41:35] [Info] Make sure you have Expo Go app installed on your phone!
+[2025-06-07 08:41:35] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 08:41:35] [Success] Expo server started (PID: 7488)
+[2025-06-07 08:41:35] [Success] QR code should appear in the CMD window for scanning with Expo Go!
+[2025-06-07 08:41:35] [Warning] IMPORTANT: Use Expo Go app to scan QR, not your camera app!
+[2025-06-07 08:41:35] [Warning] If you don't have Expo Go: Download it from App Store/Google Play
+[2025-06-07 08:41:38] [Success] Port 8083 successfully freed
+[2025-06-07 08:41:38] [Info] Running: npx expo start --host lan --port 8083 --clear
+[2025-06-07 08:41:38] [Success] Expo will be accessible via LAN at: exp://172.30.32.1:8083
+[2025-06-07 08:41:38] [Success] QR code will be displayed in CMD window - keep it open!
+[2025-06-07 08:41:38] [Info] Make sure you have Expo Go app installed on your phone!
+[2025-06-07 08:41:38] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 08:41:38] [Success] Expo server started (PID: 6364)
+[2025-06-07 08:41:38] [Success] QR code should appear in the CMD window for scanning with Expo Go!
+[2025-06-07 08:41:38] [Warning] IMPORTANT: Use Expo Go app to scan QR, not your camera app!
+[2025-06-07 08:41:38] [Warning] If you don't have Expo Go: Download it from App Store/Google Play
+[2025-06-07 08:41:43] [Info] === MONITORING CYCLE #33 ===
+[2025-06-07 08:41:43] [Info] Expo process is new (age: 8.1s), giving it time to start...
+[2025-06-07 08:41:43] [Info] Expo log file size: 122 bytes, checked 1 recent lines
+[2025-06-07 08:41:46] [Error] Detected NAVIGATION_ERROR error: navigation;"AppNavigator.jsA" N @LXêtyBN     [∑@I " 0I $ :"utils;"ErrorLogger.jsA" N ∞^tyBN      °@I " 0I $ "TextErrorFinder.jsA" N 0 _^tyBN      °@I " 0I $ :"services;"HealthKitService.jsA" N  ≤ÈëtyBN     ª@I " 0I $ "RealtimeErrorService.jsA" N ¿üêtyBN    Ä— @I " 0I $ :::4"clocks;: "plugins;"haste0:{
+[2025-06-07 08:41:46] [Warning] Attempting to fix NAVIGATION_ERROR error...
+[2025-06-07 08:41:46] [Warning] Navigation error detected - logging for developer attention
+[2025-06-07 08:41:46] [Error] DEVELOPER ACTION NEEDED: Check navigation-errors.log for details
+[2025-06-07 08:41:46] [Info] Status: Uptime=00:08:26 | Fixes=0 | Restarts=2
+[2025-06-07 08:41:46] [Info] === MONITORING CYCLE #1 ===
+[2025-06-07 08:41:46] [Info] Expo process is new (age: 8.1s), giving it time to start...
+[2025-06-07 08:41:47] [Info] Expo log file size: 170 bytes, checked 2 recent lines
+[2025-06-07 08:41:52] [Error] Detected NAVIGATION_ERROR error: navigation;"AppNavigator.jsA" N @LXêtyBN     [∑@I " 0I $ :"services;"HealthKitService.jsA" N  ≤ÈëtyBN     ª@I " 0I $ "RealtimeErrorService.jsA" N ¿üêtyBN    Ä— @I " 0I $ :"utils;"ErrorLogger.jsA" N ∞^tyBN      °@I " 0I $ "TextErrorFinder.jsA" N 0 _^tyBN      °@I " 0I $ :"screens;"ActivitiesScreen.jsA" N  ¨⁄ëtyBN    @É‘@I " 0I $ "CalendarScreen.jsA" N ‚¶5qyBN     »@I " 0I $ "ProfileScreen.jsA" N  Â»ëtyBN     l·@I " 0I $ "
+[2025-06-07 08:41:52] [Warning] Attempting to fix NAVIGATION_ERROR error...
+[2025-06-07 08:41:53] [Warning] Navigation error detected - logging for developer attention
+[2025-06-07 08:41:53] [Error] DEVELOPER ACTION NEEDED: Check navigation-errors.log for details
+[2025-06-07 08:41:53] [Info] Status: Uptime=00:00:37 | Fixes=0 | Restarts=1
+[2025-06-07 08:41:56] [Info] === MONITORING CYCLE #34 ===
+[2025-06-07 08:41:56] [Success] Expo server running normally (PID: 7488, port: 8082)
+[2025-06-07 08:41:56] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:41:59] [Info] Status: Uptime=00:08:39 | Fixes=0 | Restarts=2
+[2025-06-07 08:42:03] [Info] === MONITORING CYCLE #2 ===
+[2025-06-07 08:42:03] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:42:04] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:42:06] [Info] Status: Uptime=00:00:49 | Fixes=0 | Restarts=1
+[2025-06-07 08:42:09] [Info] === MONITORING CYCLE #35 ===
+[2025-06-07 08:42:09] [Success] Expo server running normally (PID: 7488, port: 8082)
+[2025-06-07 08:42:09] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:42:12] [Info] Status: Uptime=00:08:52 | Fixes=0 | Restarts=2
+[2025-06-07 08:42:16] [Info] === MONITORING CYCLE #3 ===
+[2025-06-07 08:42:16] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:42:16] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:42:19] [Info] Status: Uptime=00:01:02 | Fixes=0 | Restarts=1
+[2025-06-07 08:42:29] [Info] === MONITORING CYCLE #4 ===
+[2025-06-07 08:42:29] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:42:29] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:42:34] [Info] Status: Uptime=00:01:18 | Fixes=0 | Restarts=1
+[2025-06-07 08:42:44] [Info] === MONITORING CYCLE #5 ===
+[2025-06-07 08:42:44] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:42:44] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:42:50] [Info] Status: Uptime=00:01:34 | Fixes=0 | Restarts=1
+[2025-06-07 08:43:00] [Info] === MONITORING CYCLE #6 ===
+[2025-06-07 08:43:00] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:43:00] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:43:03] [Info] Status: Uptime=00:01:46 | Fixes=0 | Restarts=1
+[2025-06-07 08:43:13] [Info] === MONITORING CYCLE #7 ===
+[2025-06-07 08:43:13] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:43:13] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:43:16] [Info] Status: Uptime=00:01:59 | Fixes=0 | Restarts=1
+[2025-06-07 08:43:26] [Info] === MONITORING CYCLE #8 ===
+[2025-06-07 08:43:26] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:43:26] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:43:29] [Info] Status: Uptime=00:02:13 | Fixes=0 | Restarts=1
+[2025-06-07 08:43:39] [Info] === MONITORING CYCLE #9 ===
+[2025-06-07 08:43:40] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:43:40] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:43:43] [Info] Status: Uptime=00:02:26 | Fixes=0 | Restarts=1
+[2025-06-07 08:43:53] [Info] === MONITORING CYCLE #10 ===
+[2025-06-07 08:43:53] [Success] Expo server running normally (PID: 6364, port: 8083)
+[2025-06-07 08:43:53] [Info] Expo log file size: 462 bytes, checked 5 recent lines
+[2025-06-07 08:43:56] [Info] Status: Uptime=00:02:39 | Fixes=0 | Restarts=1
+[2025-06-07 08:43:59] [Warning] Stopping monitor...
+[2025-06-07 08:43:59] [Info] Stopping Expo server (PID: 6364)

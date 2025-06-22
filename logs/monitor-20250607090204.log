@@ -1,0 +1,21 @@
+[2025-06-07 09:01:54] [Success] Monitor stopped
+[2025-06-07 09:02:02] [Info] Attempting to use saved Expo port: 8084
+[2025-06-07 09:02:02] [Info] Using saved Expo port: 8084 (already free)
+[2025-06-07 09:02:02] [Success] === FITTRACKER MONITOR STARTED ===
+[2025-06-07 09:02:02] [Info] Project: C:\Users\LENOVO\Desktop\ios\FitTracker
+[2025-06-07 09:02:02] [Info] Expo Port: 8084
+[2025-06-07 09:02:02] [Info] Starting Expo development server...
+[2025-06-07 09:02:03] [Info] Using network IP: 10.8.0.9
+[2025-06-07 09:02:03] [Warning] Aggressively clearing port 8084 before startup...
+[2025-06-07 09:02:03] [Warning] Aggressively cleaning up port 8084...
+[2025-06-07 09:02:03] [Warning] Killing ALL Node.js processes...
+[2025-06-07 09:02:03] [Error] Error during aggressive port cleanup: Cannot overwrite variable PID because it is read-only or constant.
+[2025-06-07 09:02:04] [Info] Running: npx expo start --host lan --port 8084 --clear --qr
+[2025-06-07 09:02:04] [Success] Expo server starting with QR code display enabled
+[2025-06-07 09:02:04] [Success] Expo will be accessible via LAN at: exp://10.8.0.9:8084
+[2025-06-07 09:02:04] [Success] QR code will be displayed immediately in CMD window - keep it open!
+[2025-06-07 09:02:04] [Info] Use Expo Go app on your phone to scan the QR code!
+[2025-06-07 09:02:04] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 09:02:04] [Error] Failed to start Expo server: A positional parameter cannot be found that accepts argument '$null'.
+[2025-06-07 09:02:04] [Error] Failed to start initial Expo server
+[2025-06-07 09:02:04] [Warning] Stopping monitor...

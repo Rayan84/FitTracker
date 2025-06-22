@@ -5,26 +5,65 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fittracker",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4893ff"
+    },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fittracker.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "FitTracker needs access to your location to track your workouts.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "FitTracker needs access to your location in the background to continue tracking your workouts when the app is not active.",
+        "NSCameraUsageDescription": "FitTracker needs access to your camera to take profile photos.",
+        "NSPhotoLibraryUsageDescription": "FitTracker needs access to your photos to select profile pictures.",
+        "NSHealthShareUsageDescription": "FitTracker needs access to your health data to import workouts from Apple Health and provide comprehensive fitness tracking.",
+        "NSHealthUpdateUsageDescription": "FitTracker may write workout data to Apple Health to keep your fitness data synchronized.",
+        "UIBackgroundModes": [
+          "location",
+          "fetch",
+          "location",
+          "fetch",
+          "location",
+          "fetch",
+          "location",
+          "fetch"
+        ],
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "entitlements": {
+        "com.apple.developer.healthkit": true
+      }
     },
     "android": {
+      "package": "com.fittracker.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#4893ff"
       },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
       "edgeToEdgeEnabled": true
     },
     "web": {
       "bundler": "metro",
-      "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
       [
         "expo-splash-screen",
         {
@@ -33,10 +72,21 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-localization",
+      "expo-web-browser"
     ],
-    "experiments": {
-      "typedRoutes": true
+    "extra": {
+      "eas": {
+        "projectId": "2a6cfae6-413c-41bf-8d78-31e61faa0841"
+      }
+    },
+    "owner": "rayan84",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2a6cfae6-413c-41bf-8d78-31e61faa0841"
     }
   }
 }

@@ -1,0 +1,8 @@
+[6/7/2025 8:54:55 AM] JavaScript Error: EXPO_ERROR :  LOG  Global error caught: [TypeError: Cannot read property 'Constants' of undefined]
+[6/7/2025 8:54:55 AM] JavaScript Error: EXPO_ERROR :  LOG  Stack trace: TypeError: Cannot read property 'Constants' of undefined
+[6/7/2025 8:55:09 AM] JavaScript Error: EXPO_ERROR :  LOG  Global error caught: [TypeError: Cannot read property 'Constants' of undefined]
+[6/7/2025 8:55:09 AM] JavaScript Error: EXPO_ERROR :  LOG  Stack trace: TypeError: Cannot read property 'Constants' of undefined
+[6/7/2025 8:55:22 AM] JavaScript Error: EXPO_ERROR :  LOG  Global error caught: [TypeError: Cannot read property 'Constants' of undefined]
+[6/7/2025 8:55:22 AM] JavaScript Error: EXPO_ERROR :  LOG  Stack trace: TypeError: Cannot read property 'Constants' of undefined
+[6/7/2025 8:55:35 AM] JavaScript Error: EXPO_ERROR :  LOG  Global error caught: [TypeError: Cannot read property 'Constants' of undefined]
+[6/7/2025 8:55:35 AM] JavaScript Error: EXPO_ERROR :  LOG  Stack trace: TypeError: Cannot read property 'Constants' of undefined

@@ -1,0 +1,38 @@
+[2025-06-07 00:31:11] [Success] Monitor stopped
+[2025-06-07 00:32:49] [Info] Using saved Expo port: 8081
+[2025-06-07 00:32:49] [Success] === FITTRACKER MONITOR STARTED ===
+[2025-06-07 00:32:49] [Info] Project: C:\Users\LENOVO\Desktop\ios\FitTracker
+[2025-06-07 00:32:49] [Info] Expo Port: 8081
+[2025-06-07 00:32:49] [Info] Starting Expo development server...
+[2025-06-07 00:32:53] [Info] Using network IP: 192.168.32.1
+[2025-06-07 00:32:53] [Info] Checking port availability...
+[2025-06-07 00:32:53] [Info] Running: npx expo start --host lan --port 8081 --clear
+[2025-06-07 00:32:53] [Success] Expo will be accessible via LAN at: http://192.168.32.1:8081
+[2025-06-07 00:32:53] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 00:32:53] [Success] Expo server started (PID: 14488)
+[2025-06-07 00:32:53] [Success] QR code should now work with Expo Go app on your phone!
+[2025-06-07 00:32:58] [Info] === MONITORING CYCLE #1 ===
+[2025-06-07 00:32:59] [Warning] Expo process alive (PID: 14488) but port 8081 not in use
+[2025-06-07 00:32:59] [Warning] Expo server not responding, restarting...
+[2025-06-07 00:32:59] [Info] Starting Expo development server...
+[2025-06-07 00:32:59] [Info] Using network IP: 192.168.32.1
+[2025-06-07 00:32:59] [Info] Checking port availability...
+[2025-06-07 00:32:59] [Info] Running: npx expo start --host lan --port 8081 --clear
+[2025-06-07 00:32:59] [Success] Expo will be accessible via LAN at: http://192.168.32.1:8081
+[2025-06-07 00:32:59] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 00:32:59] [Success] Expo server started (PID: 1672)
+[2025-06-07 00:32:59] [Success] QR code should now work with Expo Go app on your phone!
+[2025-06-07 00:33:04] [Info] === MONITORING CYCLE #2 ===
+[2025-06-07 00:33:04] [Warning] Expo process alive (PID: 1672) but port 8081 not in use
+[2025-06-07 00:33:04] [Warning] Expo server not responding, restarting...
+[2025-06-07 00:33:05] [Info] Starting Expo development server...
+[2025-06-07 00:33:05] [Info] Using network IP: 192.168.32.1
+[2025-06-07 00:33:05] [Info] Checking port availability...
+[2025-06-07 00:33:05] [Info] Running: npx expo start --host lan --port 8081 --clear
+[2025-06-07 00:33:05] [Success] Expo will be accessible via LAN at: http://192.168.32.1:8081
+[2025-06-07 00:33:05] [Info] Logging Expo output to: C:\Users\LENOVO\Desktop\ios\FitTracker\expo-output.log
+[2025-06-07 00:33:05] [Success] Expo server started (PID: 21052)
+[2025-06-07 00:33:05] [Success] QR code should now work with Expo Go app on your phone!
+[2025-06-07 00:33:08] [Warning] Stopping monitor...
+[2025-06-07 00:33:08] [Info] Stopping Expo server (PID: 21052)
+[2025-06-07 00:33:09] [Warning] Stopping monitor...
