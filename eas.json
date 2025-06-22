@@ -1,7 +1,8 @@
 {
   "cli": {
-    "version": ">= 12.0.0"
-  },  "build": {
+    "version": ">= 12.0.0",
+    "appVersionSource": "local"
+  },"build": {
     "expo-go": {
       "distribution": "internal",
       "channel": "expo-go",
@@ -33,15 +34,24 @@
         "gradleCommand": ":app:assembleRelease"
       }
     },    "sideload": {
-      "distribution": "internal",
       "developmentClient": false,
       "ios": {
         "simulator": false,
-        "resourceClass": "m-medium"
+        "resourceClass": "m-medium",
+        "buildConfiguration": "Release",
+        "distribution": "adhoc"
       },
       "android": {
         "buildType": "apk",
         "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "simulator": {
+      "developmentClient": false,
+      "ios": {
+        "simulator": true,
+        "resourceClass": "m-medium",
+        "buildConfiguration": "Release"
       }
     },"production": {
       "ios": {
