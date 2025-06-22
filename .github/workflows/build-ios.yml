@@ -1,0 +1,41 @@
+﻿name: Build iOS App
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-ios:
+    runs-on: macos-latest
+    
+    steps:
+    - name:  Setup repo
+      uses: actions/checkout@v4
+
+    - name:  Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+        cache: npm
+
+    - name:  Setup EAS
+      uses: expo/expo-github-action@v8
+      with:
+        eas-version: latest
+        token: ${{ secrets.EXPO_TOKEN }}
+
+    - name:  Install dependencies
+      run: npm ci
+
+    - name:  Build iOS App (Simulator)
+      run: eas build --platform ios --profile simulator --non-interactive
+
+    - name:  Upload IPA
+      uses: actions/upload-artifact@v4
+      with:
+        name: ios-simulator-app
+        path: '*.ipa'
+        retention-days: 30
