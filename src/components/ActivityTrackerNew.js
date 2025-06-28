@@ -796,15 +796,22 @@ const ActivityTrackerNew = ({ activityType, color, icon }) => {
 
   return (
     <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
-        <StatusBar style="light" translucent={true} backgroundColor="transparent" />
-        {/* Header - clean without icon/title */}
-      <View style={[styles.header, { backgroundColor: color }]}>
-        <View style={styles.headerContent}>
+      <StatusBar style="light" translucent={true} backgroundColor="transparent" />
+      {/* Show error message if present */}
+      {errorMsg ? (
+        <View style={{ backgroundColor: '#ffcccc', padding: 10, margin: 10, borderRadius: 8 }}>
+          <Text style={{ color: '#b00020', textAlign: 'center' }}>{errorMsg}</Text>
+        </View>
+      ) : null}
+      {/* Header - clean without icon/title */}
+      <View style={[styles.header, { backgroundColor: color }]}> 
+        <View style={styles.headerContent}> 
           {/* Icon and activity name removed for cleaner look */}
         </View>
       </View>
         {/* Map Container */}
-      <View style={styles.mapContainer}>        {Platform.OS !== 'web' && location ? (
+      <View style={styles.mapContainer}>
+            {Platform.OS !== 'web' && location ? (
           <View style={styles.mapWrapper}>
             <Map
             ref={mapRef}
